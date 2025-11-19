@@ -24,6 +24,17 @@ Utilizamos o pandas para manipulação de dados e o matplotlib para a visualiza�
 1. Nota de Prevenção: Transformando Texto em Fato (0 a 4)
 Para sermos assertivos, criamos uma escala numérica ("Nota de Prevenção") para a coluna uso_preservativo, permitindo um cálculo de média limpo por idade:
 
+2. Etapas Chave do Processamento
+Carregamento do arquivo trabalho_final.csv.
+
+Criação da coluna nota_prevencao a partir da conversão das respostas.
+
+Segmentação da coluna idade nas faixas etárias.
+
+Cálculo da Média da nota_prevencao para cada faixa etária.
+
+Geração do gráfico de barras "Média de Uso de Preservativo por Faixa Etária".
+
 # 👥 Autores
 
 Luiz Henrique Appelt Weller - 1138930
